@@ -1,5 +1,6 @@
 import React from "react";
 
+// THIS IS CURRENTLY A PLACEHOLDER
 export const Logo = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
